@@ -69,10 +69,10 @@ print(df.head())
 | power.moe      | premium   | $104      | $15.60        | 98             | 62     | 5      | namecheap        |
 | nationwide.moe | available | $17.88    | —             | 76             | 66     | 10     | namecheap        |
 | most.moe       | resell    | —         | —             | 118            | 29     | 4      | Dynadot Inc      |
-| free.moe       | premium   | $625      | $23.99        | 88             | 59     | 4      | name.com         |
+| cloud.moe      | premium   | $6,240    | $15.60        | 70             | 59     | 5      | namecheap        |
 | seventeen.moe  | available | $17.88    | —             | 84             | 62     | 9      | namecheap        |
 | age.moe        | resell    | —         | —             | 74             | 25     | 3      | Porkbun          |
-| cloud.moe      | premium   | $6,240    | $15.60        | 70             | 59     | 5      | namecheap        |
+| free.moe       | premium   | $625      | $23.99        | 88             | 57     | 4      | name.com         |
 | athletics.moe  | available | $17.88    | —             | 69             | 52     | 9      | namecheap        |
 | sue.moe        | resell    | —         | —             | 64             | 16     | 3      | NameSilo, LLC    |
 | good.moe       | premium   | $312.50   | $23.99        | 82             | 55     | 4      | name.com         |
@@ -81,9 +81,9 @@ print(df.head())
 | insurance.moe  | available | $17.88    | —             | 76             | 44     | 9      | namecheap        |
 | game.moe       | premium   | $9,000    | $23.99        | 120            | 50     | 4      | name.com         |
 | strategy.moe   | available | $17.88    | —             | 74             | 43     | 8      | namecheap        |
-| digital.moe    | premium   | $3,250    | $23.99        | 100            | 50     | 7      | name.com         |
-| agile.moe      | available | $17.88    | —             | 92             | 41     | 5      | namecheap        |
 | life.moe       | premium   | $325      | $15.60        | 84             | 50     | 4      | namecheap        |
+| agile.moe      | available | $17.88    | —             | 92             | 41     | 5      | namecheap        |
+| simple.moe     | premium   | $312.50   | $23.99        | 128            | 49     | 6      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
