@@ -1,22 +1,22 @@
-# Available .MOE One-Word Domains (8,869)
+# Available .MOE One-Word Domains (11,305)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C869%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C869%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C305%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .moe one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .moe one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,305 domains** on the canonical page below.
 
-**Public extract:** 8,869 rows · **Live catalog:** 8,869 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,305 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/moe`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .MOE one-word domain c
 
 ### Files
 
-- `moe.csv` — public CSV extract (8,869 rows)
-- `moe.json` — public JSON extract (8,869 rows)
+- `moe.csv` — public CSV extract (1,000 rows)
+- `moe.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| converse.moe   | available | $17.88    | —             | 64             | 73     | 8      | namecheap        |
-| chatbot.moe    | resell    | —         | —             | 82             | 38     | 7      | GoDaddy.com, LLC |
-| power.moe      | premium   | $104      | $15.60        | 98             | 62     | 5      | namecheap        |
-| nationwide.moe | available | $17.88    | —             | 76             | 66     | 10     | namecheap        |
-| most.moe       | resell    | —         | —             | 118            | 29     | 4      | Dynadot Inc      |
-| cloud.moe      | premium   | $6,240    | $15.60        | 70             | 59     | 5      | namecheap        |
-| seventeen.moe  | available | $17.88    | —             | 84             | 62     | 9      | namecheap        |
-| age.moe        | resell    | —         | —             | 74             | 25     | 3      | Porkbun          |
-| free.moe       | premium   | $625      | $23.99        | 88             | 57     | 4      | name.com         |
-| athletics.moe  | available | $17.88    | —             | 69             | 52     | 9      | namecheap        |
-| sue.moe        | resell    | —         | —             | 64             | 16     | 3      | NameSilo, LLC    |
-| good.moe       | premium   | $312.50   | $23.99        | 82             | 55     | 4      | name.com         |
-| genius.moe     | available | $17.88    | —             | 98             | 45     | 6      | namecheap        |
-| business.moe   | premium   | $104      | $15.60        | 100            | 53     | 8      | namecheap        |
-| insurance.moe  | available | $17.88    | —             | 76             | 44     | 9      | namecheap        |
-| game.moe       | premium   | $9,000    | $23.99        | 120            | 50     | 4      | name.com         |
-| strategy.moe   | available | $17.88    | —             | 74             | 43     | 8      | namecheap        |
-| life.moe       | premium   | $325      | $15.60        | 84             | 50     | 4      | namecheap        |
-| agile.moe      | available | $17.88    | —             | 92             | 41     | 5      | namecheap        |
-| simple.moe     | premium   | $312.50   | $23.99        | 128            | 49     | 6      | name.com         |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| insight.moe       | available | $17.88    | —             | 76             | 69     | 8      | namecheap |
+| jobs.moe          | premium   | $100      | —             | 79             | 42     | 4      | name.com  |
+| makers.moe        | available | $13.99    | $13.99        | 62             | 67     | 6      | namesilo  |
+| stories.moe       | premium   | $100      | —             | 58             | 36     | 7      | name.com  |
+| regions.moe       | available | $17.88    | —             | 64             | 59     | 7      | namecheap |
+| homes.moe         | premium   | $100      | —             | 86             | 34     | 5      | name.com  |
+| keepthechange.moe | available | $17.88    | —             | 46             | 59     | 15     | namecheap |
+| trends.moe        | premium   | $100      | —             | 60             | 32     | 6      | name.com  |
+| shortcuts.moe     | available | $17.88    | —             | 48             | 41     | 10     | namecheap |
+| rewards.moe       | premium   | $302.50   | $14.16        | 62             | 30     | 7      | namesilo  |
+| WiFi.moe          | available | $17.88    | —             | 83             | 37     | 5      | namecheap |
+| quotes.moe        | premium   | $100      | —             | 58             | 29     | 6      | name.com  |
+| neuroscience.moe  | available | $17.88    | —             | 80             | 37     | 12     | namecheap |
+| pages.moe         | premium   | $100      | —             | 52             | 28     | 5      | name.com  |
+| spectra.moe       | available | $17.88    | —             | 62             | 34     | 7      | namecheap |
+| sites.moe         | premium   | $312.50   | —             | 53             | 26     | 5      | name.com  |
+| letsgo.moe        | available | $17.88    | —             | 57             | 31     | 7      | namecheap |
+| holidays.moe      | premium   | $302.50   | $14.16        | 78             | 23     | 8      | namesilo  |
+| blocks.moe        | available | $17.88    | —             | 53             | 29     | 6      | namecheap |
+| signs.moe         | premium   | $100      | —             | 64             | 22     | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,869-row public sample | 8,869 live domains                               |
+| 1,000-row public sample | 11,305 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
