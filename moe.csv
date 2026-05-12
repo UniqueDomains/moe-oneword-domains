@@ -483,6 +483,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2911df93-0260-47ff-aacf-698282af2b91,alcoholbyvolume.moe,available,17.88,,58,1,17,namecheap,,
 292016c7-cd26-4a8c-b3d6-cb9c8bceaa38,getup.moe,available,17.88,,82,14,6,namecheap,,
 292a4436-7598-4c7b-8bfd-3a297cfb3761,hammeraway.moe,available,17.88,,66,0,11,namecheap,,
+296f07e6-4fed-4a3a-94e2-2a9aeb61fa4b,ive.moe,premium,,,62,16,3,,,
 29e5b872-947a-4f6e-a0d4-d715f5a8e9e1,enlightenment.moe,available,17.88,,62,18,13,namecheap,,
 2a079fba-194e-4e30-ace4-6b70ce35795d,cuts.moe,available,13.99,13.99,72,10,4,namesilo,,
 2a26b766-bd59-4f12-9043-b680832f33be,slips.moe,available,17.88,,70,10,5,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 563daa68-07b6-4287-964a-52cf2f9bc105,toexcess.moe,available,17.88,,55,0,9,namecheap,,
 56648afd-dce8-48e1-a16c-08e092ca3d2e,goosebumps.moe,available,13.99,13.99,56,12,10,namesilo,,
 568e9de0-af5d-4495-9ed4-73e19f620fcd,speeds.moe,available,13.99,13.99,53,8,6,namesilo,,
-569c44cb-b9ec-4468-b6ca-49353b07fba9,fitlikeaglove.moe,available,17.88,,76,1,16,namecheap,,
