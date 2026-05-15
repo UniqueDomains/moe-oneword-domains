@@ -747,6 +747,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4046ff9c-c1ea-44d0-8c1a-399d0a2ba08d,playin.moe,available,17.88,,80,10,7,namecheap,,
 40493cb3-d3be-4f81-9273-bc8f7fe3864b,majorityproblem.moe,available,17.88,,50,0,16,namecheap,,
 4049aa49-4cc6-48d5-b5ec-0397bb460323,Ihateyou.moe,available,17.88,,52,4,10,namecheap,,
+408094a8-624a-4120-bb2e-6ab456cc8ed9,figures.moe,premium,,,58,10,7,,,
 40e8ac39-dff4-4eec-ac1c-ff9442308b8f,zombies.moe,available,17.88,,44,11,7,namecheap,,
 41049d65-862f-4c87-9d74-97e0da2400e3,deepfried.moe,available,17.88,,74,6,10,namecheap,,
 410bb866-b05f-45f1-9230-767ee2292abc,getstuckin.moe,available,17.88,,72,2,12,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5635d605-045a-4072-9094-dd6aa3490aad,Xrays.moe,available,17.88,,52,5,6,namecheap,,
 563daa68-07b6-4287-964a-52cf2f9bc105,toexcess.moe,available,17.88,,55,0,9,namecheap,,
 56648afd-dce8-48e1-a16c-08e092ca3d2e,goosebumps.moe,available,13.99,13.99,56,12,10,namesilo,,
-568e9de0-af5d-4495-9ed4-73e19f620fcd,speeds.moe,available,13.99,13.99,53,8,6,namesilo,,
