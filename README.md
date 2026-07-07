@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .moe one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,797 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,797 domains · **Median ask:** $41.16 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,797 domains · **Median ask:** $50.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/moe`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/moe`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MOE one-word domain c
 
 ### Files
 
-- `moe.csv` — public CSV extract (1,000 rows)
-- `moe.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `moe.csv`, public CSV extract (1,000 rows)
+- `moe.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Trex.moe          | available | $17.88    | —             | 80             | 24     | 5      | namecheap |
-| WiFi.moe          | available | $17.88    | —             | 83             | 37     | 5      | namecheap |
-| finals.moe        | available | $13.99    | $13.99        | 80             | 7      | 6      | namesilo  |
-| jewels.moe        | available | $17.88    | —             | 80             | 15     | 6      | namecheap |
-| ladies.moe        | available | $17.88    | —             | 80             | 17     | 6      | namecheap |
-| getup.moe         | available | $17.88    | —             | 82             | 15     | 6      | namecheap |
-| Apples.moe        | available | $17.88    | —             | 90             | 16     | 6      | namecheap |
-| useit.moe         | available | $17.88    | —             | 94             | 7      | 6      | namecheap |
-| dogsit.moe        | available | $17.88    | —             | 96             | 2      | 6      | namecheap |
-| edamame.moe       | available | $13.99    | $13.99        | 80             | 9      | 7      | namesilo  |
-| playin.moe        | available | $17.88    | —             | 80             | 10     | 7      | namecheap |
-| QandA.moe         | available | $17.88    | —             | 80             | 10     | 7      | namecheap |
-| getlife.moe       | available | $17.88    | —             | 80             | 5      | 8      | namecheap |
-| makers.moe        | available | $13.99    | $13.99        | 62             | 67     | 6      | namesilo  |
-| jobs.moe          | premium   | $100      | —             | 79             | 42     | 4      | name.com  |
-| regions.moe       | available | $17.88    | —             | 64             | 59     | 7      | namecheap |
-| stories.moe       | premium   | $100      | —             | 58             | 36     | 7      | name.com  |
-| keepthechange.moe | available | $17.88    | —             | 46             | 59     | 15     | namecheap |
-| homes.moe         | premium   | $100      | —             | 86             | 34     | 5      | name.com  |
-| shortcuts.moe     | available | $17.88    | —             | 48             | 41     | 10     | namecheap |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| atp.moe  | available | $13.99    | $13.99        | medium         | low    | 3      | namesilo    |
+| most.moe | resell    | —         | —             | high           | low    | 4      | Dynadot Inc |
+| aaa.moe  | premium   | $325      | $15.60        | high           | medium | 3      | namecheap   |
+| bid.moe  | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
+| bro.moe  | premium   | $96       | $14.16        | medium         | low    | 3      | namesilo    |
+| BJP.moe  | available | $17.88    | —             | medium         | low    | 3      | namecheap   |
+| day.moe  | premium   | $625      | —             | high           | low    | 3      | name.com    |
+| DJI.moe  | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
+| hot.moe  | premium   | $625      | —             | high           | low    | 3      | name.com    |
+| Eid.moe  | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
+| pad.moe  | premium   | $302.50   | $14.16        | medium         | low    | 3      | namesilo    |
+| feb.moe  | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
+| sky.moe  | premium   | $1,500    | —             | high           | medium | 3      | name.com    |
+| gee.moe  | available | $13.99    | $13.99        | medium         | low    | 3      | namesilo    |
+| was.moe  | premium   | $96       | $14.16        | low            | low    | 3      | namesilo    |
+| hic.moe  | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
+| club.moe | premium   | $302.50   | $14.16        | high           | low    | 4      | namesilo    |
+| oak.moe  | available | $13.99    | $13.99        | medium         | low    | 3      | namesilo    |
+| date.moe | premium   | $100      | —             | high           | low    | 4      | name.com    |
+| ole.moe  | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is narrowly focused on one-word .moe domains, which makes comparison straightforward. The extension is distinctive, so the main decision is not only the word itself but whether the name feels ownable, memorable, and commercially usable with .moe attached. Generic words such as finals.moe, jewels.moe, ladies.moe, and forces.moe are easier to assess on brandability than names that echo well-known brands or products like Chanel.moe, Shrek.moe, or WiFi.moe. With a median ask of 40.81, price is accessible, but low ask alone does not reduce naming or trademark risk. When comparing these domains, prioritize clean generic language, clear spelling, and fit between the word and the .moe extension.
+This list covers one-word domains registered under the .moe extension, drawn from everyday English vocabulary rather than invented terms. Names like "dogstail," "bonvoyage," "finals," and "chaitea" show the range—short, pronounceable words that work across community, lifestyle, and niche branding use cases. With 11,797 domains in this set and a median asking price near $50, most listings sit in an accessible price range for early-stage projects or opportunistic acquisition. Because .moe is a less mainstream extension, one-word availability remains higher than on .com, though buyers should still weigh renewal cost, spelling ease, and potential trademark conflicts before committing.
 
-- Generic words usually carry cleaner brandability than branded terms
-- Median ask is 40.81 across this .moe selection
-- Short, clear words are easier to remember and evaluate
-- Watch trademark exposure in names like Chanel.moe or Shrek.moe
+- 11,797 one-word .moe domains available now
+- Median asking price near $50 per domain
+- Short, brandable English words across many themes
+- Updated daily for current pricing and availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
