@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .moe one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,809 domains · **Median ask:** $30.57 · **High-demand under $2,500:** 18
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/moe`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| atp.moe  | available | $13.99    | $13.99        | medium         | low    | 3      | namesilo    |
-| most.moe | resell    | —         | —             | high           | low    | 4      | Dynadot Inc |
-| aaa.moe  | premium   | $325      | $15.60        | high           | medium | 3      | namecheap   |
-| bid.moe  | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
-| bro.moe  | premium   | $96       | $14.16        | medium         | low    | 3      | namesilo    |
-| BJP.moe  | available | $17.88    | —             | medium         | low    | 3      | namecheap   |
-| day.moe  | premium   | $625      | —             | high           | low    | 3      | name.com    |
-| DJI.moe  | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
-| hot.moe  | premium   | $625      | $23.99        | medium         | medium | 3      | name.com    |
-| Eid.moe  | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
-| pad.moe  | premium   | $302.50   | $14.16        | medium         | low    | 3      | namesilo    |
-| feb.moe  | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
-| sky.moe  | premium   | $1,500    | —             | high           | medium | 3      | name.com    |
-| gee.moe  | available | $13.99    | $13.99        | medium         | low    | 3      | namesilo    |
-| was.moe  | premium   | $96       | $14.16        | low            | low    | 3      | namesilo    |
-| hic.moe  | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
-| club.moe | premium   | $302.50   | $14.16        | high           | low    | 4      | namesilo    |
-| oak.moe  | available | $13.99    | $13.99        | medium         | low    | 3      | namesilo    |
-| date.moe | premium   | $100      | —             | high           | low    | 4      | name.com    |
-| ole.moe  | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| own.moe       | available | —         | —             | high           | low    | 3      | —           |
+| wholesale.moe | available | $13.99    | $13.99        | high           | low    | 9      | namesilo    |
+| chief.moe     | available | $13.99    | $13.99        | high           | low    | 5      | namesilo    |
+| atp.moe       | available | $13.99    | $13.99        | medium         | low    | 3      | namesilo    |
+| most.moe      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc |
+| aaa.moe       | premium   | $325      | $15.60        | high           | medium | 3      | namecheap   |
+| bid.moe       | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
+| bro.moe       | premium   | $96       | $14.16        | medium         | low    | 3      | namesilo    |
+| BJP.moe       | available | $17.88    | —             | medium         | low    | 3      | namecheap   |
+| day.moe       | premium   | $625      | —             | high           | low    | 3      | name.com    |
+| DJI.moe       | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
+| hot.moe       | premium   | $625      | $23.99        | medium         | medium | 3      | name.com    |
+| Eid.moe       | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
+| pad.moe       | premium   | $302.50   | $14.16        | medium         | low    | 3      | namesilo    |
+| feb.moe       | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
+| sky.moe       | premium   | $1,500    | —             | high           | medium | 3      | name.com    |
+| gee.moe       | available | $13.99    | $13.99        | medium         | low    | 3      | namesilo    |
+| was.moe       | premium   | $96       | $14.16        | low            | low    | 3      | namesilo    |
+| hic.moe       | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
+| club.moe      | premium   | $302.50   | $14.16        | high           | low    | 4      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOE One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOE One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
