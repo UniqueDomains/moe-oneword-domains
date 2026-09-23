@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .moe one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,481 domains · **Median ask:** $26.70 · **High-demand under $2,500:** 17
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/moe`
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
 | atp.moe  | available | $13.99    | $13.99        | medium         | low    | 3      | namesilo    |
 | most.moe | resell    | —         | —             | high           | low    | 4      | Dynadot Inc |
-| aaa.moe  | premium   | $325      | $15.60        | high           | medium | 3      | namecheap   |
+| aaa.moe  | premium   | $325      | $15.60        | medium         | medium | 3      | namecheap   |
 | bid.moe  | available | $13.99    | $13.99        | high           | low    | 3      | namesilo    |
 | bro.moe  | premium   | $96       | $14.16        | medium         | low    | 3      | namesilo    |
 | bjp.moe  | available | $17.88    | —             | medium         | low    | 3      | namecheap   |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOE One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOE One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
