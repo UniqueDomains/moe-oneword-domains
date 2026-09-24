@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 e821f5e9-0587-4182-8279-a1e2ad2889c2,goleft.moe,available,13.99,13.99,high,low,7,namesilo,,,
-7b0a0672-6772-441a-8650-23fd40e4e748,organize.moe,available,13.99,13.99,high,low,8,namesilo,,,
+7b0a0672-6772-441a-8650-23fd40e4e748,organize.moe,available,13.99,13.99,medium,low,8,namesilo,,,23/09/2026 23:13
 e9c8dd5e-4e3e-42d8-89f7-3305f36f48e0,generators.moe,available,13.99,13.99,medium,low,10,namesilo,,,
 3c55876a-dd59-48a4-bd07-4f7c3600469f,playdate.moe,available,13.99,13.99,medium,low,9,namesilo,,,
 172048ef-bff6-47c0-8c41-756abaf9f5b4,zend.moe,available,13.99,13.99,low,low,4,namesilo,,,07/08/2026 23:12
@@ -75,7 +75,7 @@ eb1970e2-8523-4a56-b9b2-9f61e762ebff,overdue.moe,available,13.99,13.99,medium,lo
 c76ff792-bd04-4abb-a98c-d181d8a727e2,weird.moe,available,17.88,,medium,low,5,namecheap,,,
 7205bfe7-fa23-4d66-b490-4b5d1816742a,tippingpoint.moe,available,13.99,13.99,high,low,13,namesilo,,,
 c6ec2f1d-0134-427e-b946-10f029a5820e,lightningstrike.moe,available,13.99,13.99,medium,low,16,namesilo,,,
-65b82c0d-5941-4b82-a913-1dd0fc67269b,worn.moe,available,13.99,13.99,medium,low,4,namesilo,,,
+65b82c0d-5941-4b82-a913-1dd0fc67269b,worn.moe,available,14.98,17.88,low,low,4,namecheap,,,23/09/2026 12:58
 3fda4b56-f532-4a1b-8bcf-a74e8a73249d,apivorous.moe,available,13.99,13.99,low,low,9,namesilo,,,06/08/2026 00:18
 a6b905fe-9677-4707-8ffe-32b6a1731951,piano.moe,premium,96,14.16,high,low,5,namesilo,,,
 260313e1-7941-4c5b-be36-d23ae7cb0ca0,powerstrip.moe,available,13.99,13.99,high,low,11,namesilo,,,
@@ -93,7 +93,7 @@ b140072c-30cf-41c0-8e10-bbd46d8a2fdf,videochat.moe,available,13.99,13.99,medium,
 e9bc68ed-ab79-4606-afdb-6ff422499b94,entrenched.moe,available,17.88,,medium,low,10,namecheap,,,
 c958c35b-c774-4967-84f3-f89ecd08e05a,aramaean.moe,available,13.99,13.99,low,low,8,namesilo,,,06/08/2026 12:08
 4656fc8b-1342-4ef3-b601-d325b3cf9152,birthcertificate.moe,available,17.88,,medium,low,17,namecheap,,,
-6d2d5afc-f0d9-4109-8b24-627447fd356f,continuing.moe,available,13.99,13.99,high,low,10,namesilo,,,
+6d2d5afc-f0d9-4109-8b24-627447fd356f,continuing.moe,available,13.99,13.99,medium,low,10,namesilo,,,23/09/2026 22:17
 f26f09e8-0d7b-483a-ab47-21d64590aac6,qualitative.moe,available,13.99,13.99,high,low,11,namesilo,,,
 5cc80c44-519d-4ba1-ad69-65242a82577c,affirm.moe,available,,,high,low,6,,,,
 b650d970-26a0-4610-bc71-d751e64f11f4,undirected.moe,available,13.99,13.99,low,low,10,namesilo,,,
@@ -122,11 +122,11 @@ f0c56332-13df-46df-8617-0b84d1a7c335,fact.moe,premium,302.5,14.16,high,low,4,nam
 1d196076-2198-4508-97ea-5b5d44321dc7,integrated.moe,available,13.99,13.99,high,low,10,namesilo,,,
 17d98872-8ef6-47f5-8135-81656f9ac810,assess.moe,available,13.99,13.99,high,low,6,namesilo,,,
 67ae07f6-ab03-4003-9f15-6de7b1597782,rubbingoil.moe,available,13.99,13.99,low,low,11,namesilo,,,
-c190d9d5-95ee-41f3-8306-1d6b789bf750,forced.moe,available,13.99,13.99,medium,low,6,namesilo,,,
+c190d9d5-95ee-41f3-8306-1d6b789bf750,forced.moe,available,19.99,23.99,low,low,6,name.com,,,23/09/2026 21:10
 ad8b8f90-abda-43b3-9d20-32c4b12e30ca,cairo.moe,premium,96,14.16,medium,low,5,namesilo,,,
 bc201298-dd78-4cb2-ad01-a06acad322c5,obey.moe,available,13.99,13.99,high,low,4,namesilo,,,
 fe2c6d20-393b-495a-a176-d018d1111e41,metre.moe,available,13.99,13.99,high,low,5,namesilo,,,
-ab736061-872a-4394-9633-2d2cd360f641,commanding.moe,available,13.99,13.99,high,low,10,namesilo,,,
+ab736061-872a-4394-9633-2d2cd360f641,commanding.moe,available,13.99,13.99,medium,low,10,namesilo,,,23/09/2026 15:41
 5dfa6b79-56f0-413c-a06e-f5754fe8b4a8,mentallyill.moe,available,13.99,13.99,medium,low,12,namesilo,,,
 ac07e526-42a9-49de-b75c-db6fa0d05ad8,bro.moe,premium,96,14.16,medium,low,3,namesilo,,,
 0a5b2158-6256-405f-8b0f-9dbe5f3fb4e8,whichever.moe,available,13.99,13.99,medium,low,9,namesilo,,,
@@ -168,7 +168,6 @@ aa375ead-3781-423c-89bd-4b6a13e5e042,citizen.moe,available,13.99,13.99,high,low,
 b8f3fb58-49d3-48cb-8c26-97e3aa1ea4e3,aphasic.moe,available,13.99,13.99,low,low,7,namesilo,,,05/08/2026 23:07
 8aae8e87-c8cf-4358-b488-543c25a354e9,concert.moe,premium,650,15.6,high,low,7,namecheap,,,
 87ef7580-de90-45b7-a63c-f49514fb4dc2,antepenult.moe,available,13.99,13.99,low,low,10,namesilo,,,
-229ab623-a7a2-49bb-913f-bea04e81eca6,compound.moe,available,17.88,,high,low,8,namecheap,,,
 af2dfbb8-974b-44e5-87db-eb7b76fdde4f,thinktoomuch.moe,available,13.99,13.99,low,low,14,namesilo,,,
 54730092-a619-40cb-89ed-df9786a631c0,intrepid.moe,available,13.99,13.99,medium,low,8,namesilo,,,22/09/2026 12:24
 56d5cab6-73bb-40ba-aaef-1608a67dbf28,option.moe,premium,325,15.6,medium,low,6,namecheap,,,22/09/2026 02:42
@@ -177,7 +176,7 @@ af2dfbb8-974b-44e5-87db-eb7b76fdde4f,thinktoomuch.moe,available,13.99,13.99,low,
 a586c4dc-38f7-49b9-8911-e71c9b3bf16f,duracell.moe,available,17.88,,high,low,8,namecheap,,,
 fc920b8b-f6ef-490a-a825-8ccbfa64efaa,wheezing.moe,available,13.99,13.99,low,low,8,namesilo,,,07/08/2026 09:25
 163b0c20-0b76-4317-aac6-7a46d9b232d8,attractive.moe,available,13.99,13.99,medium,low,10,namesilo,,,22/09/2026 11:44
-b3d439b9-2a9a-471d-9aed-f97d5516c2d8,material.moe,available,13.99,13.99,high,low,8,namesilo,,,
+b3d439b9-2a9a-471d-9aed-f97d5516c2d8,material.moe,available,13.99,13.99,medium,low,8,namesilo,,,23/09/2026 23:27
 51ef8564-8238-45a5-85bb-7f64377d1a0d,azotemic.moe,available,13.99,13.99,low,low,8,namesilo,,,08/09/2026 15:21
 ac37b85a-1e97-4f1a-b269-c3712f916cdd,letterofintent.moe,available,13.99,13.99,high,low,16,namesilo,,,
 3f2ddc52-4245-4ab3-a1c0-842fdd421706,suit.moe,premium,96,14.16,high,low,4,namesilo,,,
@@ -191,7 +190,7 @@ a316f381-6ac3-4ea8-b308-723a4581ba57,avuncular.moe,available,13.99,13.99,low,low
 93881943-f0e1-4b2e-9701-4f114449f5b7,whereabouts.moe,available,17.88,,low,low,11,namecheap,,,
 398a0f45-01d6-4411-9ce1-f6ddb183958a,playonwords.moe,available,13.99,13.99,low,low,13,namesilo,,,
 932d5c19-c9a8-4b16-8c27-c3fd1a6bc7d5,athousand.moe,available,13.99,13.99,medium,low,10,namesilo,,,
-b2f322fa-dabc-4958-b1d7-9da8f98d55f3,effort.moe,available,13.99,13.99,medium,low,6,namesilo,,,19/09/2026 09:55
+b2f322fa-dabc-4958-b1d7-9da8f98d55f3,effort.moe,available,13.99,13.99,medium,low,6,namesilo,,,23/09/2026 07:47
 52eb3634-8d4c-4a15-926b-0c288f22e642,kooky.moe,available,14.98,17.88,medium,low,5,namecheap,,,06/08/2026 21:04
 c3c7d3d4-73da-4ce5-9fb4-79d4e49825f2,gee.moe,available,13.99,13.99,medium,low,3,namesilo,,,
 d0124cf9-3803-4c9d-ad29-08f4db285272,sportsday.moe,available,13.99,13.99,high,low,10,namesilo,,,
@@ -207,7 +206,7 @@ d75ecae7-18a1-49e7-961a-10ab38f5d06d,pricetag.moe,available,13.99,13.99,medium,l
 eea209a6-aaba-4be6-bfa6-a5fe1dde1c7e,superstar.moe,premium,104,15.6,medium,low,9,namecheap,,,21/09/2026 17:56
 b5e9e128-b579-4de4-8b6e-2d46dcabf508,solarsystem.moe,available,13.99,13.99,medium,low,12,namesilo,,,
 313bcdf5-3b3b-4b6a-ba68-731d89e7c041,baggagecarousel.moe,available,17.88,,medium,low,16,namecheap,,,
-496eb4a9-58c8-459e-a70e-e5f9a38adef1,wholesale.moe,available,13.99,13.99,high,low,9,namesilo,,,
+496eb4a9-58c8-459e-a70e-e5f9a38adef1,wholesale.moe,available,13.99,13.99,medium,low,9,namesilo,,,24/09/2026 02:58
 bb740df9-963c-4ebb-981f-ea3ec1d10361,felt.moe,available,13.99,13.99,high,low,4,namesilo,,,
 3b64ec65-431a-4414-9e9e-ec75eb51d8ae,journeyman.moe,available,13.99,13.99,medium,low,10,namesilo,,,
 f72dcbd6-447e-48f9-817f-c994ba83ed7b,registered.moe,available,13.99,13.99,medium,low,10,namesilo,,,
@@ -269,7 +268,7 @@ bb53ae3a-400a-4d76-9b19-00bd91e69aee,rearwards.moe,available,13.99,13.99,low,low
 58b53218-3a50-4a88-8bc4-a09c0219a32a,laptop.moe,available,13.99,13.99,high,low,6,namesilo,,,
 4b95e723-72de-4c7f-ac34-2bc15fee889e,fifth.moe,available,13.99,13.99,low,low,5,namesilo,,,
 cb05c698-b81c-4798-b60d-f37e4a988e42,pass.moe,available,17.88,,high,low,4,namecheap,,,
-2506f3d1-ff3c-4865-a45a-4f4d377b9042,blacktea.moe,available,13.99,13.99,high,low,9,namesilo,,,
+2506f3d1-ff3c-4865-a45a-4f4d377b9042,blacktea.moe,available,14.98,17.88,low,low,9,namecheap,,,24/09/2026 01:47
 24235ea7-ed54-4ee0-a579-74fbef49a24d,vanquish.moe,available,13.99,13.99,low,low,8,namesilo,,,09/08/2026 05:32
 2d2ca07b-9394-4e69-a1f0-aaa66418c600,justsaying.moe,available,13.99,13.99,medium,low,11,namesilo,,,
 9965cd66-b3d3-4ad5-a147-86e43c14adce,earlyadopter.moe,available,13.99,13.99,high,low,13,namesilo,,,
@@ -296,7 +295,7 @@ c2589750-5735-4f19-a43a-6d25596e32c9,retired.moe,available,17.88,,high,low,7,nam
 e8cbdd57-e742-48b4-973c-20047bf9db06,influenced.moe,available,13.99,13.99,medium,low,10,namesilo,,,
 cb966c54-f850-4c6e-89bc-12420a3a6b3f,corking.moe,available,13.99,13.99,low,low,7,namesilo,,,08/08/2026 12:20
 5f51b212-1282-486d-9ae0-17de05023a77,arrogant.moe,premium,104,15.6,low,low,8,namecheap,,,22/09/2026 08:39
-327dcc97-4d95-44bf-8bfa-2616c1d0b631,corrected.moe,available,13.99,13.99,high,low,9,namesilo,,,
+327dcc97-4d95-44bf-8bfa-2616c1d0b631,corrected.moe,available,13.99,13.99,medium,low,9,namesilo,,,23/09/2026 23:45
 513c61b9-f0a3-4fb4-8f9a-43226e3e5c3b,audenesque.moe,available,13.99,13.99,low,low,10,namesilo,,,07/08/2026 16:30
 805c4093-4c3d-4147-b52d-00343877b88b,grandniece.moe,available,17.88,,high,low,10,namecheap,,,
 5f770ca2-a93c-4b18-b841-84da666070be,blinking.moe,available,14.98,17.88,medium,low,8,namecheap,,,22/09/2026 21:58
@@ -318,7 +317,7 @@ e723ee77-4400-4a1f-9d0d-4c98f4cd2635,revolved.moe,available,17.88,,medium,low,8,
 c098fee2-63e1-4a96-87ae-f3d8701f0fb8,baggage.moe,available,13.99,13.99,high,low,7,namesilo,,,
 f9eab9d5-d736-4212-a50b-8b1abfa7f913,would.moe,available,13.99,13.99,high,low,5,namesilo,,,
 33cbf97b-36dc-44f1-8ceb-0b671b7307af,dothelaundry.moe,available,13.99,13.99,medium,low,14,namesilo,,,
-c0d1811c-71a8-46c3-a805-5ddb6c62633b,slick.moe,available,13.99,13.99,medium,low,5,namesilo,,,
+c0d1811c-71a8-46c3-a805-5ddb6c62633b,slick.moe,available,14.98,17.88,low,low,5,namecheap,,,24/09/2026 02:25
 0f745477-fdda-4be8-b783-d598f4323bf8,atyourservice.moe,available,13.99,13.99,high,low,15,namesilo,,,
 11d05b36-6d15-41a6-a6c8-896b7bdc993c,returned.moe,available,13.99,13.99,medium,low,8,namesilo,,,
 160ddd6e-7788-412b-ac73-e339f452116b,prototypic.moe,available,13.99,13.99,low,low,10,namesilo,,,06/08/2026 15:42
@@ -326,9 +325,9 @@ c0d1811c-71a8-46c3-a805-5ddb6c62633b,slick.moe,available,13.99,13.99,medium,low,
 7fe30968-ae2f-45cc-ad24-dd270c5886fa,awareness.moe,available,13.99,13.99,high,low,9,namesilo,,,
 58898fa0-7d95-4b24-bcea-56c55af92e85,howlong.moe,available,13.99,13.99,medium,low,8,namesilo,,,
 f1f9a54f-7e35-4333-8a9a-56a101253bf6,listed.moe,available,13.99,13.99,medium,low,6,namesilo,,,
-9bb8725c-7cca-4683-b331-dc5b9591bbf0,biology.moe,premium,96,14.16,high,low,7,namesilo,,,
+9bb8725c-7cca-4683-b331-dc5b9591bbf0,biology.moe,premium,96,14.16,medium,low,7,namesilo,,,24/09/2026 02:45
 7443f446-9a91-4b5f-a1fd-75f7371f6578,objectively.moe,available,13.99,13.99,medium,low,11,namesilo,,,
-325dc4cf-d8b1-4394-a691-0e9b92e00a10,covered.moe,available,13.99,13.99,high,low,7,namesilo,,,
+325dc4cf-d8b1-4394-a691-0e9b92e00a10,covered.moe,available,13.99,13.99,medium,low,7,namesilo,,,24/09/2026 00:50
 96ef5d73-2056-439d-84d6-538d9f60cb2a,digital.moe,premium,3380,15.6,medium,low,7,namecheap,,,23/09/2026 05:43
 b7c71d89-f6e0-4587-b126-4f131ccd8577,yearround.moe,available,13.99,13.99,high,low,10,namesilo,,,
 57db933e-da0e-44db-980f-fd25c04abc7f,eyeofthebeholder.moe,available,13.99,13.99,high,low,19,namesilo,,,
@@ -339,7 +338,7 @@ b7c71d89-f6e0-4587-b126-4f131ccd8577,yearround.moe,available,13.99,13.99,high,lo
 f4b0e6ef-f8f2-4534-9305-909d5ba9468b,cockeyed.moe,available,13.99,13.99,low,low,8,namesilo,,,07/08/2026 03:36
 41dd3f52-02fd-48d9-a9f4-a7e23ac36534,butt.moe,available,13.99,13.99,low,low,4,namesilo,,,09/08/2026 10:40
 4f92537a-ed33-4ba2-96c9-494ede823e70,acidulous.moe,available,13.99,13.99,low,low,9,namesilo,,,
-93baef41-236d-471b-8f60-2e63f5402563,habitat.moe,available,17.88,,high,medium,7,namecheap,,,
+93baef41-236d-471b-8f60-2e63f5402563,habitat.moe,available,13.99,13.99,medium,low,7,namesilo,,,23/09/2026 08:52
 8a24ea58-e704-45e3-bbca-d3fc3cfd6892,acarpous.moe,available,13.99,13.99,low,low,8,namesilo,,,
 3e10a7f9-09f0-471d-a6d8-8356b52fb32f,suspense.moe,available,17.88,,high,low,8,namecheap,,,
 a6c47453-8350-4ab7-8569-e8058b967b70,appoint.moe,available,13.99,13.99,high,low,7,namesilo,,,
@@ -369,7 +368,7 @@ de560f0f-832a-4b37-a12f-197a8fadf730,astounded.moe,available,13.99,13.99,low,low
 53e551dd-7411-404f-8664-9e11c187fec1,vodka.moe,premium,302.5,14.16,high,low,5,namesilo,,,
 dd1cba24-79b1-4457-afd4-4e9bcaca8664,scowling.moe,available,13.99,13.99,low,low,8,namesilo,,,09/08/2026 08:33
 37e9c58b-cd84-40f9-9810-c63ce38ff23a,auspicious.moe,available,13.99,13.99,medium,low,10,namesilo,,,22/09/2026 13:12
-9ba11d7a-98a9-48e5-8531-18409a3bcded,television.moe,premium,104,15.6,medium,low,10,namecheap,,,20/09/2026 02:37
+9ba11d7a-98a9-48e5-8531-18409a3bcded,television.moe,premium,104,15.6,medium,low,10,namecheap,,,23/09/2026 06:07
 17e37dec-6b7d-451c-a08a-bd56818a25a7,cheeses.moe,available,13.99,13.99,high,low,7,namesilo,,,
 17546ba9-a3da-40e4-946b-6211bfe130ba,appealable.moe,available,13.99,13.99,low,low,10,namesilo,,,06/08/2026 05:46
 5d60e0ff-808a-4f4a-8590-fc801797a43c,intheear.moe,available,17.88,,medium,low,10,namecheap,,,
@@ -384,7 +383,7 @@ ebcb461d-9bd8-4525-93f1-f9070863414e,valueable.moe,available,13.99,13.99,high,lo
 c0a45c64-08f9-4686-99df-122ff3e3794b,toandfro.moe,available,13.99,13.99,low,low,10,namesilo,,,13/09/2026 23:03
 869f9396-9db6-494f-995f-6f5d1981a0bd,lxxxvii.moe,available,14.98,17.88,low,low,7,namecheap,,,
 fd837510-b8a7-4001-affa-46d88b6d2cd3,damned.moe,available,14.98,17.88,low,low,6,namecheap,,,22/09/2026 21:41
-4d1574c5-56f2-48a5-956c-49d9859c700e,sideways.moe,available,13.99,13.99,high,low,8,namesilo,,,
+4d1574c5-56f2-48a5-956c-49d9859c700e,sideways.moe,available,13.99,13.99,low,low,8,namesilo,,,24/09/2026 01:14
 9c080ff9-b3fb-4321-9d34-c074b23f1ba8,married.moe,available,13.99,13.99,high,low,7,namesilo,,,
 9fc97043-e1e0-469b-896a-d9cd29aba0a9,teeshirt.moe,available,17.88,,high,low,9,namecheap,,,
 4e85f5a5-7511-41de-80c7-27316e26140b,aberrant.moe,available,13.99,13.99,low,low,8,namesilo,,,
@@ -424,7 +423,7 @@ a3f6470f-c4a3-4246-803e-1f66267eee20,rearward.moe,available,13.99,13.99,low,low,
 9934d683-ef6a-41ed-9f37-cac9847fa85b,achy.moe,available,13.99,13.99,low,low,4,namesilo,,,
 eccd1460-c2dc-4c95-b546-26aebef30155,distance.moe,available,13.99,13.99,high,low,8,namesilo,,,
 bebd32ee-2afa-4832-8002-6cca8d43b7f0,gelpen.moe,available,13.99,13.99,high,low,7,namesilo,,,
-4d91bf67-b2db-4b65-8fea-f88dfb981d17,composed.moe,available,13.99,13.99,high,low,8,namesilo,,,
+4d91bf67-b2db-4b65-8fea-f88dfb981d17,composed.moe,available,14.98,17.88,medium,low,8,namecheap,,,23/09/2026 17:50
 c99cb3ec-a584-4ddd-af05-40e38cc92d56,goodlife.moe,available,13.99,13.99,medium,low,9,namesilo,,,
 6edf6771-2d02-4edd-b877-f7ec83014cb2,exemplary.moe,available,14.98,17.88,medium,low,9,namecheap,,,21/09/2026 18:58
 adf2aece-2e49-4226-82c2-951272716d48,riveravon.moe,available,13.99,13.99,high,low,10,namesilo,,,
@@ -460,7 +459,7 @@ d9927600-736a-40db-aa79-e113a59d1d0f,talkto.moe,available,13.99,13.99,medium,low
 3a5f44dd-f2d5-46f6-b62f-ec19769200c8,gowith.moe,available,13.99,13.99,high,low,7,namesilo,,,
 a25c66b8-1246-4425-bbe9-528d5b0f28f5,details.moe,available,13.99,13.99,high,low,7,namesilo,,,
 b3f789c2-13ae-4172-a0b2-048622f975ce,highlighting.moe,available,13.99,13.99,high,low,12,namesilo,,,
-fa2ede9f-5fe2-4cf1-824e-b14f21d01bf1,screen.moe,available,13.99,13.99,low,low,6,namesilo,,,19/09/2026 13:37
+fa2ede9f-5fe2-4cf1-824e-b14f21d01bf1,screen.moe,available,14.98,17.88,low,low,6,namecheap,,,23/09/2026 16:32
 85bb34e8-fe90-4e78-9a8f-dce94fe9d401,most.moe,resell,,,high,low,4,Dynadot Inc,06/10/2022 00:00,06/10/2026 00:00,
 f2080784-b8e6-4895-9159-66694e38daa6,oxfam.moe,available,13.99,13.99,high,low,5,namesilo,,,
 913bdd3b-c6ed-4470-8ed3-f4d3084b6f22,buyer.moe,available,13.99,13.99,high,low,5,namesilo,,,
@@ -475,7 +474,7 @@ fe180996-98c8-4109-bbdb-bab2fae68387,asfaras.moe,available,17.88,,medium,low,9,n
 74115e89-367e-403f-96ea-b58e324d74a1,amino.moe,available,14.98,17.88,low,low,5,namecheap,,,
 9701870f-81dc-4a5d-ba27-c65b1631cb2d,arched.moe,available,13.99,13.99,low,low,6,namesilo,,,06/08/2026 14:34
 66e9b5dc-f13b-4743-9af4-535f1d212bbb,pinkgold.moe,available,13.99,13.99,low,low,9,namesilo,,,
-a84e2f24-7116-42d9-9629-445051aeea6d,exchange.moe,premium,96,14.16,high,low,8,namesilo,,,
+a84e2f24-7116-42d9-9629-445051aeea6d,exchange.moe,premium,96,14.16,medium,low,8,namesilo,,,23/09/2026 13:38
 a23302fe-668d-4907-a2b0-6b19acff50aa,phonecall.moe,available,13.99,13.99,high,low,10,namesilo,,,
 b5ac8931-46c3-4964-890c-ca1ca66fed78,insure.moe,available,13.99,13.99,high,low,6,namesilo,,,
 38cc36e7-fb8b-4e09-a77e-340f2bc0d240,firsttime.moe,available,13.99,13.99,high,low,10,namesilo,,,
@@ -522,9 +521,9 @@ d5aadce6-870a-4e4a-b1e5-f4da83a8ffe1,campus.moe,available,13.99,13.99,high,low,6
 8b9b6b4f-1071-425d-aad1-a7388d949d68,brotherhood.moe,available,13.99,13.99,high,low,11,namesilo,,,
 4c55c8a3-8aaa-40af-856f-99d2228f84f3,greekalphabet.moe,available,13.99,13.99,medium,low,14,namesilo,,,
 bf54b323-5f43-4537-af90-5b87f58b1655,hot.moe,premium,640,14.16,medium,low,3,namesilo,,,19/09/2026 15:25
-aa33f213-c52c-401a-9a14-b8f502d1967d,gather.moe,premium,100,23.99,high,low,6,name.com,,,
+aa33f213-c52c-401a-9a14-b8f502d1967d,gather.moe,premium,104,15.6,medium,low,6,namecheap,,,23/09/2026 20:27
 403b7964-5080-4047-b6e4-c8bbb63e5cf0,grungy.moe,available,13.99,13.99,low,low,6,namesilo,,,09/08/2026 09:36
-c0c6c9ad-476f-437d-9a27-4eaee9728cea,relief.moe,available,13.99,13.99,medium,low,6,namesilo,,,19/09/2026 08:39
+c0c6c9ad-476f-437d-9a27-4eaee9728cea,relief.moe,available,14.98,17.88,medium,low,6,namecheap,,,23/09/2026 07:06
 c7cb8b9d-47db-44ff-91e0-2f39ce585510,reflexcamera.moe,available,13.99,13.99,medium,low,13,namesilo,,,
 9ad5fb38-0f60-401e-b234-162ca124307d,chief.moe,available,13.99,13.99,medium,low,5,namesilo,,,23/09/2026 00:59
 e7043835-b4e8-487f-a4d8-50203220cef0,modeller.moe,available,17.88,,high,low,8,namecheap,,,
@@ -538,7 +537,7 @@ fa2b9901-3c1a-481e-8426-b3f81622bb20,cathartic.moe,available,13.99,13.99,low,low
 d72e1499-7872-48f2-ab59-0f73e8a5c432,club.moe,premium,302.5,14.16,high,low,4,namesilo,,,
 476bd863-a0a3-48c8-9565-9f06b0528fd1,icon.moe,premium,302.5,14.16,high,medium,4,namesilo,,,
 2854999e-e908-44c1-8723-ab95777819b2,amphibian.moe,available,13.99,13.99,low,low,9,namesilo,,,
-cc539a46-6590-4cb9-9e06-c471dcd37e82,correlate.moe,available,13.99,13.99,high,low,9,namesilo,,,
+cc539a46-6590-4cb9-9e06-c471dcd37e82,correlate.moe,available,13.99,13.99,medium,low,9,namesilo,,,23/09/2026 23:49
 9f71c74d-86f3-4697-ac98-03d9d769c506,abdominous.moe,available,13.99,13.99,low,low,10,namesilo,,,
 53ff8ea3-16f0-423b-be93-ccb18ace9d35,detestable.moe,available,13.99,13.99,low,low,10,namesilo,,,
 3f167ec9-4c63-4567-938f-0ea4cbabb464,tenner.moe,available,19.99,23.99,low,low,6,name.com,,,21/09/2026 10:53
@@ -556,7 +555,7 @@ ab647b87-a186-4a50-8c4d-9a25885b037b,adenoid.moe,available,13.99,13.99,low,low,7
 c716b0a4-4339-4e63-be7e-ed4625e19549,inspiring.moe,available,13.99,13.99,high,low,9,namesilo,,,
 b60f110c-a1c6-4cc9-85f7-93c53ab7f29d,ripe.moe,available,17.88,,medium,low,4,namecheap,,,
 fe6a00d6-7e2c-4172-b1f9-bfffb4e1ca36,anodic.moe,available,,,medium,low,6,,,,
-2efc1711-90a2-43a2-8e83-62ce4c52766a,communal.moe,available,13.99,13.99,medium,low,8,namesilo,,,
+2efc1711-90a2-43a2-8e83-62ce4c52766a,communal.moe,available,13.99,13.99,medium,low,8,namesilo,,,23/09/2026 16:10
 b0e395e2-217d-45bf-8450-f5a9155f727b,softwareengineer.moe,available,13.99,13.99,high,low,17,namesilo,,,
 54e59e29-f5f9-450e-a0df-47fd35598f79,pricing.moe,available,13.99,13.99,high,low,7,namesilo,,,
 0c953d25-97dd-4fac-b465-2fd220fcf02f,ole.moe,available,13.99,13.99,high,low,3,namesilo,,,
@@ -565,7 +564,7 @@ ef1a39db-cd21-4b36-89be-a1f4a82c8bcb,hightechnology.moe,available,13.99,13.99,hi
 4f38023b-7523-48e5-8b59-5b0f34eaceee,tourist.moe,premium,96,14.16,high,low,7,namesilo,,,
 977edfe9-0190-493d-91ee-ba7e632fe899,noncitizen.moe,available,13.99,13.99,low,low,10,namesilo,,,
 8ff48f90-23ff-41fe-858f-072e67a20e26,aucourant.moe,available,13.99,13.99,low,low,10,namesilo,,,
-191ebc3c-6598-4627-993f-b36b7afdb2fa,confirming.moe,available,13.99,13.99,high,low,10,namesilo,,,
+191ebc3c-6598-4627-993f-b36b7afdb2fa,confirming.moe,available,13.99,13.99,medium,low,10,namesilo,,,23/09/2026 19:45
 e40bf262-8198-4001-a0c7-e113cf097de9,longdozen.moe,available,13.99,13.99,low,low,10,namesilo,,,
 1488a13b-0a8e-404f-9b32-461978f683ae,poor.moe,available,13.99,13.99,medium,low,4,namesilo,,,
 69991702-0ce9-4c7a-9e12-9f2f3efdcf17,particular.moe,available,13.99,13.99,high,low,10,namesilo,,,
@@ -619,10 +618,10 @@ b24814d2-9b1d-4c99-a06a-9096102e5323,chemically.moe,available,13.99,13.99,medium
 d113665f-28a3-43a4-aedf-fd3836df106a,acidotic.moe,available,13.99,13.99,low,low,8,namesilo,,,
 e6ae87a9-7d57-449c-a900-7f4d545cac3f,success.moe,premium,96,14.16,high,low,7,namesilo,,,
 a81e5728-08a5-4db2-a685-db35b45a1529,cotyloidal.moe,available,13.99,13.99,low,low,10,namesilo,,,
-243ceef4-2cce-49ad-993f-1f3c41e7097a,wall.moe,available,13.99,13.99,low,low,4,namesilo,,,19/09/2026 13:29
+243ceef4-2cce-49ad-993f-1f3c41e7097a,wall.moe,available,13.99,13.99,low,low,4,namesilo,,,23/09/2026 16:20
 601f3216-a6af-426b-88c4-a3529112dec9,abloom.moe,available,13.99,13.99,low,low,6,namesilo,,,
-c16a6b5d-6acc-477f-b377-55a9179cff7f,textbook.moe,available,13.99,13.99,high,low,8,namesilo,,,
-c2cf0902-ac64-4629-be94-4086f9bc7f69,engineer.moe,available,13.99,13.99,medium,low,8,namesilo,,,19/09/2026 14:35
+c16a6b5d-6acc-477f-b377-55a9179cff7f,textbook.moe,available,13.99,13.99,medium,low,8,namesilo,,,23/09/2026 13:09
+c2cf0902-ac64-4629-be94-4086f9bc7f69,engineer.moe,available,13.99,13.99,medium,low,8,namesilo,,,23/09/2026 17:26
 fcfa9092-e842-4ad1-8085-c54e4ff74597,intheair.moe,available,13.99,13.99,low,low,10,namesilo,,,15/09/2026 05:25
 094363b3-403f-42d5-8cb2-d4aa6eb571d3,arced.moe,available,13.99,13.99,low,low,5,namesilo,,,06/08/2026 14:28
 554687ba-38f3-4152-a3e5-7093b698c5ef,buzzed.moe,available,13.99,13.99,high,low,6,namesilo,,,
@@ -663,17 +662,17 @@ b8bf85fc-954f-4f06-9b33-0698a68ed136,ensure.moe,available,13.99,13.99,high,low,6
 aeb2a705-6d2f-4c6c-8566-fa8f36c3da70,virtuoso.moe,available,13.99,13.99,medium,low,8,namesilo,,,21/09/2026 17:38
 4b193079-75c4-4f04-98b5-08bdeaee892e,stations.moe,premium,96,14.16,medium,low,8,namesilo,,,
 73e4636c-ae51-43d4-99af-6f4f9969c253,bearish.moe,available,13.99,13.99,low,low,7,namesilo,,,09/08/2026 04:48
-915ec465-afaa-4e01-9ca9-ab29561bebfd,conscious.moe,available,13.99,13.99,high,low,9,namesilo,,,
+915ec465-afaa-4e01-9ca9-ab29561bebfd,conscious.moe,available,14.98,17.88,medium,low,9,namecheap,,,23/09/2026 20:38
 aa4600c4-b550-4228-bb4a-7ec21c5d15db,better.moe,premium,325,15.6,medium,low,6,namecheap,,,22/09/2026 20:11
 18362519-5430-4638-995b-2f1cbea314fb,concluded.moe,available,13.99,13.99,low,low,9,namesilo,,,
 05e59f9a-a295-4bba-94e7-28190489b152,portofcall.moe,available,13.99,13.99,low,low,12,namesilo,,,
-752e398c-454f-4c29-805e-3c5c1d8df7c3,sly.moe,available,13.99,13.99,medium,low,3,namesilo,,,
+752e398c-454f-4c29-805e-3c5c1d8df7c3,sly.moe,available,13.99,13.99,low,low,3,namesilo,,,24/09/2026 01:29
 75df5af0-0168-4b01-a9d2-13f1a9bc4a88,amiss.moe,available,13.99,13.99,low,low,5,namesilo,,,
 52ddac3a-dc08-4409-8b5b-d1795634e16e,analgesic.moe,available,13.99,13.99,low,low,9,namesilo,,,
 94f18b7b-b700-41fb-84b9-635fb78e5a1b,goin.moe,available,19.99,23.99,low,low,5,name.com,,,16/09/2026 23:43
 c5b8c566-9170-49e1-9035-3b586b98706e,evaluative.moe,available,13.99,13.99,low,low,10,namesilo,,,06/08/2026 08:13
 797ee0c6-3545-4237-beb7-107c9301a6a2,fatigue.moe,available,13.99,13.99,high,low,7,namesilo,,,
-1918092a-fdad-462c-b43d-cf2be7643ef5,shed.moe,available,13.99,13.99,medium,low,4,namesilo,,,
+1918092a-fdad-462c-b43d-cf2be7643ef5,shed.moe,available,19.99,23.99,low,low,4,name.com,,,23/09/2026 12:18
 c1d8a21d-136c-4196-9f6e-596a6fc0b90e,walkfree.moe,available,13.99,13.99,medium,low,9,namesilo,,,
 571da8ab-bb4c-4570-9b70-2cd92a26a8db,onebyone.moe,available,13.99,13.99,medium,low,10,namesilo,,,
 adf2cba4-5ee1-43b9-b0c0-72d72f45cc64,achromous.moe,available,13.99,13.99,low,low,9,namesilo,,,
@@ -692,7 +691,7 @@ f7f7e2fa-74fa-45ce-b2c5-de2bf328ac28,diplomatic.moe,available,17.88,,high,low,10
 8f7c471a-782e-499b-a694-db1418a30e0c,obsessive.moe,available,13.99,13.99,high,low,9,namesilo,,,
 8c23345f-d2c4-4f83-817d-51013cad4caf,scene.moe,available,13.99,13.99,high,low,5,namesilo,,,
 e2fd6d99-a712-4b79-a656-fbc31694726f,topnotch.moe,available,13.99,13.99,low,low,8,namesilo,,,
-9bde3e70-1b3a-402e-9655-0c2200ad15db,positive.moe,premium,96,14.16,high,low,8,namesilo,,,
+9bde3e70-1b3a-402e-9655-0c2200ad15db,positive.moe,premium,96,14.16,medium,low,8,namesilo,,,23/09/2026 14:53
 f18cabcc-d107-4af8-8007-e58569988098,cameroon.moe,available,,,high,low,8,,,,
 835b15f9-9b75-4d4b-82b3-4f500053fd95,characteristics.moe,available,13.99,13.99,medium,low,15,namesilo,,,
 e219f1d4-560d-4739-9071-4719d574cdac,chased.moe,available,13.99,13.99,high,low,6,namesilo,,,
@@ -735,7 +734,7 @@ e552e1bc-3b75-4ff6-b537-4ad5aeaa383c,various.moe,available,13.99,13.99,high,low,
 5503efad-39e3-42f6-a857-a0b8fd335bd2,tentative.moe,available,13.99,13.99,high,low,9,namesilo,,,
 4508292f-3d62-4ce6-b7ac-cf73ddb57e3c,serialkiller.moe,available,13.99,13.99,medium,low,13,namesilo,,,
 a08c2dcf-58f7-4ec0-8cd0-7893294de028,toothdecay.moe,available,13.99,13.99,low,low,11,namesilo,,,
-26a6f0d5-0149-4adb-a962-29685cbf85d5,concerned.moe,available,13.99,13.99,medium,low,9,namesilo,,,
+26a6f0d5-0149-4adb-a962-29685cbf85d5,concerned.moe,available,14.98,17.88,low,low,9,namecheap,,,23/09/2026 18:58
 4b150de6-e2a1-43d3-b171-0d56c6fafb8f,was.moe,premium,96,14.16,low,low,3,namesilo,,,
 a5079f59-53dc-4ec4-a8ff-dd6cbeaa1bd9,pimply.moe,available,13.99,13.99,low,low,6,namesilo,,,
 60e0de18-b329-495a-8d53-55bf2f13066f,youneverknow.moe,available,13.99,13.99,low,low,14,namesilo,,,
@@ -749,7 +748,7 @@ f4eb08c7-3b6d-4525-b445-7968d0b532a3,heckno.moe,available,13.99,13.99,high,low,7
 84093025-5f22-4633-b831-bbded3259231,warm.moe,available,13.99,13.99,medium,low,4,namesilo,,,21/09/2026 21:51
 8a20a641-8b15-45d1-bb61-fdb8ba1829b1,sunday.moe,premium,302.5,14.16,high,low,6,namesilo,,,
 b81f420a-3f55-4e7d-a475-b1e4af3ff1ec,compactcamera.moe,available,17.88,,high,low,14,namecheap,,,
-f4895aec-308a-4581-9b28-1e2d97cf79fa,center.moe,premium,96,14.16,high,low,6,namesilo,,,
+f4895aec-308a-4581-9b28-1e2d97cf79fa,center.moe,premium,96,14.16,medium,low,6,namesilo,,,23/09/2026 13:19
 b445aaf1-576b-4f24-a94e-802ebe9b5504,soundthealarm.moe,available,13.99,13.99,high,low,15,namesilo,,,
 afaf15a2-92db-4e1d-9447-482d80372502,advisor.moe,premium,96,14.16,high,low,7,namesilo,,,
 5b540880-8aa7-4fd1-a7f4-dadf6b8c1099,netflix.moe,available,,,high,low,7,,,,
@@ -765,7 +764,7 @@ bc6a529f-34fd-4c95-b416-1263a3a0c86f,monday.moe,premium,302.5,14.16,high,low,6,n
 3c883f2d-9423-45eb-9838-aa63d349c2c2,tectonic.moe,available,13.99,13.99,low,low,8,namesilo,,,06/08/2026 15:47
 a087710d-8ee4-4bab-b416-b594e5083e39,bald.moe,available,13.99,13.99,low,low,4,namesilo,,,08/08/2026 09:16
 ceb2f803-a16b-4869-82eb-dcda9bca640f,heavyhanded.moe,available,13.99,13.99,medium,low,12,namesilo,,,
-3ddc1102-9118-4a88-8100-769615b3c150,bust.moe,available,13.99,13.99,high,low,4,namesilo,,,
+3ddc1102-9118-4a88-8100-769615b3c150,bust.moe,available,13.99,13.99,low,low,4,namesilo,,,23/09/2026 09:51
 9cbbc0aa-5fd3-4cbd-956a-9e10ae13ef31,pieceofpaper.moe,available,13.99,13.99,low,low,14,namesilo,,,
 32952e2a-1d77-43ac-b445-600390743d2e,ilxx.moe,available,13.99,13.99,low,low,4,namesilo,,,
 2f46e29a-c9b3-415a-8b4b-163ba6003de6,armless.moe,available,14.98,17.88,low,low,7,namecheap,,,06/08/2026 19:54
@@ -891,7 +890,7 @@ c26ad15e-aca9-4f2b-aba7-fea310d6c0af,total.moe,premium,640,14.16,medium,low,5,na
 3918f5d0-35d9-4304-a6e1-e6038f7b591e,involve.moe,available,13.99,13.99,high,low,7,namesilo,,,
 43813a64-4fc3-4fd5-bdeb-bbc2daf272a7,astimegoesby.moe,available,17.88,,medium,low,15,namecheap,,,
 4da73799-90df-48f7-9012-a5e29abbc945,quint.moe,available,13.99,13.99,low,low,5,namesilo,,,
-081471ad-ec74-4602-ae71-90545fa211ca,comical.moe,available,13.99,13.99,high,low,7,namesilo,,,
+081471ad-ec74-4602-ae71-90545fa211ca,comical.moe,available,13.99,13.99,medium,low,7,namesilo,,,23/09/2026 15:19
 44a0be9b-6c82-4dc2-a8f4-6e5c7079226f,romannumerals.moe,available,13.99,13.99,low,low,14,namesilo,,,
 ed554e76-0f52-4a17-b9e6-edeb7a67ffbc,germanpizza.moe,available,17.88,,high,low,12,namecheap,,,
 b1507139-2e84-44de-b8f4-c236cc346b9f,andfinally.moe,available,13.99,13.99,medium,low,11,namesilo,,,
@@ -932,7 +931,7 @@ cbada100-271b-4eec-91ea-7b0be71fccd0,artful.moe,available,13.99,13.99,low,low,6,
 74611699-b0fb-438a-84d1-62b4dc954b7f,several.moe,available,13.99,13.99,high,low,7,namesilo,,,
 74431672-e7a7-463e-a90d-47157a3eed73,credit.moe,available,13.99,13.99,medium,low,6,namesilo,,,
 a1c42815-a378-4d64-9240-9ce7d636340c,beefedup.moe,available,13.99,13.99,low,low,9,namesilo,,,09/08/2026 07:44
-23a70676-3a78-4f2b-b46d-ef6661617765,appointment.moe,available,17.88,,high,low,11,namecheap,,,
+23a70676-3a78-4f2b-b46d-ef6661617765,appointment.moe,available,13.99,13.99,medium,low,11,namesilo,,,24/09/2026 03:38
 9b2685fe-551c-4478-9448-5584f006fbcb,admiration.moe,available,13.99,13.99,high,low,10,namesilo,,,
 6c9bf33d-de69-486b-85f0-8e1a434abea6,sausage.moe,available,,,high,low,7,,,,
 d4390753-0329-433b-a70f-3eaa98a55762,hotticket.moe,available,17.88,,high,low,10,namecheap,,,
@@ -998,4 +997,5 @@ a95f066d-1ad7-443c-83ef-6a2a62178695,climbable.moe,available,13.99,13.99,low,low
 5a8e4f97-bc23-432b-8398-623f4ba13471,accrued.moe,available,13.99,13.99,low,low,7,namesilo,,,
 b855ff83-2678-4726-ab90-29db39959f91,fireengine.moe,available,17.88,,high,low,11,namecheap,,,
 f0df00c1-838e-4b0e-8771-d62b61ebfe5e,necessary.moe,available,17.88,,medium,low,9,namecheap,,,
-1befc093-6e19-4b7b-be53-aadde85dacff,conclusive.moe,available,13.99,13.99,medium,low,10,namesilo,,,
+1befc093-6e19-4b7b-be53-aadde85dacff,conclusive.moe,available,13.99,13.99,medium,low,10,namesilo,,,23/09/2026 19:11
+0b10d4fd-8f23-4909-839e-273fb669641f,actiondoll.moe,available,13.99,13.99,high,low,11,namesilo,,,
